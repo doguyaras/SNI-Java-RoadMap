@@ -1,2 +1,106 @@
 # SNI Java RoadMap
  SNI Technology Java Internship Roadmap
+
+Certainly, here is the English version of your README file:
+
+---
+
+## Internship Week 1: Java Fundamentals
+
+During this week, I learned the fundamental components of the Java programming language and worked on small projects covering the following topics:
+
+- Java's basic syntax structure
+- Loops and conditional statements
+- Data types and variables
+- Methods and functions
+- Object-Oriented Programming (OOP) principles
+
+You can find the projects completed during this week in this folder: roadMap
+
+## Internship Week 2: Java Collections and Maven
+
+This week, I delved into Java collections and essential development tools like Maven. I also focused on the following topics:
+
+- Java collections and Streams API
+- File handling
+- Maven project management
+
+You can find the projects completed during this week in this folder: roadMap2
+
+## Internship Week 3: SQL and JDBC
+
+During this week, I concentrated on gaining skills in accessing databases and executing basic SQL queries. The key areas of focus were:
+
+- Basic level SQL queries
+- JDBC (Java Database Connectivity) structure
+- Examples of CRUD (Create, Read, Update, Delete) operations
+
+You can find the projects completed during this week in this folder: roadMap3
+
+## Internship Week 4-5: Web Development Fundamentals
+
+Over these two weeks, I learned the fundamentals of web development and concentrated on the following topics:
+
+- Basics of HTML, CSS, and JavaScript
+- XML and JSON data structures
+- Usage of Servlets
+- SOAP and REST web services
+- Developed sample projects in these areas
+
+You can find the projects completed during these weeks in this folder: roadMap4
+
+## Internship Week 6: Hibernate and Database Operations
+
+In the final week, I developed a sample application for performing database operations using the Hibernate framework. The primary focus areas for this week were:
+
+- Understanding the Hibernate framework
+- Performing CRUD operations with Hibernate
+- Gained practical experience by working on a sample application
+
+You can find the project completed during this week in this folder: roadMap6
+
+
+
+Staj Hafta 1: Java Temelleri
+Bu hafta boyunca, Java programlama dilinin temel bileşenlerini öğrendim ve aşağıdaki konuları kapsayan küçük projeler geliştirdim:
+
+-Java'nın temel syntax yapısı
+-Döngüler ve koşullu ifadeler
+-Veri tipleri ve değişkenler
+-Metotlar ve fonksiyonlar
+-Nesne yönelimli programlama (OOP) prensipleri
+-Bu hafta tamamlanan projeleri bu klasörde bulabilirsiniz: roadMap
+
+Staj Hafta 2: Java Koleksiyonları ve Maven
+Bu hafta, Java koleksiyonlarını ve Maven gibi önemli geliştirme araçlarını inceledim. Ayrıca aşağıdaki konulara odaklandım:
+
+-Java koleksiyonları ve Streams API
+-Dosya işlemleri
+-Maven proje yönetimi
+-Bu hafta tamamlanan projeleri bu klasörde bulabilirsiniz: roadMap2
+
+Staj Hafta 3: SQL ve JDBC
+Bu hafta, veritabanlarına erişim ve temel SQL sorgularını çalıştırma becerilerini geliştirmek için aşağıdaki konulara odaklandım:
+
+-Temel seviye SQL sorguları
+-JDBC (Java Database Connectivity) yapısı
+-CRUD işlemleri için örnekler
+-Bu hafta tamamlanan projeleri bu klasörde bulabilirsiniz: roadMap3
+
+Staj Hafta 4-5: Web Geliştirme Temelleri
+Bu iki hafta boyunca, web geliştirmenin temel konularını öğrendim ve aşağıdaki konulara odaklandım:
+
+-HTML, CSS ve JavaScript temelleri
+-XML ve JSON veri yapıları
+-Servletlerin kullanımı
+-SOAP ve REST web servisleri
+-Bu konularda örnek projeler geliştirdim
+-Bu haftalarda tamamlanan projeleri bu klasörde bulabilirsiniz: roadMap4
+
+Staj Hafta 6: Hibernate ve Veritabanı İşlemleri
+Son haftada, Hibernate framework'ünü kullanarak veritabanı işlemleri gerçekleştiren bir örnek uygulama geliştirdim. Bu hafta, aşağıdaki konulara odaklandım:
+
+-Hibernate framework'ü
+-CRUD işlemleri Hibernate ile nasıl gerçekleştirilir
+-Örnek bir uygulama üzerinde çalışma deneyimi
+-Bu hafta tamamlanan projeyi bu klasörde bulabilirsiniz: roadMap6
