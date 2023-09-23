@@ -1,8 +1,6 @@
 # SNI Java RoadMap
  SNI Technology Java Internship Roadmap
 
-Certainly, here is the English version of your README file:
-
 ---
 
 ## Internship Week 1: Java Fundamentals
