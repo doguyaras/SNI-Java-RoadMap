@@ -1,0 +1,14 @@
+Araba:Car
+Ev:Home
+Kalem:Pencil
+Hayvan:Animal
+Kedi:Cat
+Köpek:Dog
+Koş:Run
+Yürü:Walk
+Bilgisayar:Computer
+Telefon:Phone
+Kırmızı:Red
+Sarı:Yellow
+Ağaç:Tree
+Timsah:Crocodile
